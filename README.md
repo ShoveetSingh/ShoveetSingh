@@ -21,4 +21,3 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShoveetSingh)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Your GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShoveetSingh)
-
