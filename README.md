@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @ShoveetSingh
+
+![](https://komarev.com/ghpvc/?username=ShoveetSingh)
+
 - 👀 I’m interested in software technology...
 - 🌱 I’m currently learning Hacking
 - Anybody interested in helping me to learn hacking is welcome.
