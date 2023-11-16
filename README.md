@@ -19,5 +19,3 @@ You can click the Preview link to take a look at your changes.
 [![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShoveetSingh)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShoveetSingh)](https://github.com/anuraghazra/github-readme-stats)
-
-![Your GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShoveetSingh)
