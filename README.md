@@ -22,3 +22,5 @@ You can click the Preview link to take a look at your changes.
 
 [![Your GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ShoveetSingh)](https://github.com/ryo-ma/github-profile-trophy)
 
+![Code Size](https://img.shields.io/github/languages/code-size/your-ShoveetSingh/CrowdFunding)
+
