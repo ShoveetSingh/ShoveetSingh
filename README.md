@@ -23,3 +23,6 @@ You can click the Preview link to take a look at your changes.
 [![Your GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ShoveetSingh)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/shoveet-singh-69827a225/)
+
+<!-- Random Dev Joke Generator -->
+<iframe src="https://v2.jokeapi.dev/joke/Programming,Miscellaneous,Spooky,Christmas?blacklistFlags=nsfw,religious,political,racist,sexist&type=single" height="200" width="800" frameBorder="0"></iframe>
