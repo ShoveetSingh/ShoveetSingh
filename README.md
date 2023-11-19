@@ -24,4 +24,4 @@ You can click the Preview link to take a look at your changes.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/shoveet-singh-69827a225/)
 
-![Your WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShoveetSingh)
+![Your WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=shoveet.svg)
