@@ -24,7 +24,4 @@ You can click the Preview link to take a look at your changes.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/shoveet-singh-69827a225/)
 
-<!-- Random Dev Joke Generator -->
-<iframe src="https://v2.jokeapi.dev/joke/Programming,Miscellaneous,Spooky,Christmas?blacklistFlags=nsfw,religious,political,racist,sexist&type=single" height="200" width="800" frameBorder="0"></iframe>
-[![Dev Jokes](https://img.shields.io/badge/Dev%20Jokes-%F0%9F%98%82-lightgrey)](https://v2.jokeapi.dev/)
-
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
