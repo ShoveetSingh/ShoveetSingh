@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Hacking
 - Anybody interested in helping me to learn hacking is welcome.
 - - 💞️ I’m looking to collaborate on MERN technology stack...
-- 📫 How to reach me ...
+- 📫 How to reach me ... via gmail address linkedln profile and address 😁
 
 <!---
 ShoveetSingh/ShoveetSingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
