@@ -6,7 +6,7 @@
 - - 💞️ I’m looking to collaborate on MERN technology stack...
 - 📫 How to reach me ... via gmail address linkedln profile and address 😁
 
-<img src="https://www.buymeacoffee.com/assets/img/custom_images/black_img.png" alt="Buy Me a Coffee">
+<img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me a Coffee">
 
 <!---
 ShoveetSingh/ShoveetSingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
