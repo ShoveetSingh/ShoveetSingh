@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @ShoveetSingh
-  <img style="position: relative; display: inline-block; color:#FFD700; background-color: black; " src="https://komarev.com/ghpvc/?username=ShoveetSingh" alt="Profile Views" style="position: absolute; top: 0; left: 0; z-index: -1;">
-
-
-
 - 👀 I’m interested in software technology...
 - - 💞️ I’m looking to collaborate on MERN technology stack...
 - 📫 How to reach me ... via gmail address linkedln profile and address 😁
