@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @ShoveetSingh
-- 
-<div style="position: relative; display: inline-block; color:#FFD700; background-color: black; ">
-  <img src="https://komarev.com/ghpvc/?username=ShoveetSingh" alt="Profile Views" style="position: absolute; top: 0; left: 0; z-index: -1;">
-</div>
+  <img style="position: relative; display: inline-block; color:#FFD700; background-color: black; " src="https://komarev.com/ghpvc/?username=ShoveetSingh" alt="Profile Views" style="position: absolute; top: 0; left: 0; z-index: -1;">
 
 
 
