@@ -21,8 +21,11 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShoveetSingh&bg_color=000000&title_color=ffffff&text_color=DD2727&icon_color=DD2727)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Your GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ShoveetSingh)](https://github.com/ryo-ma/github-profile-trophy)
+[![Your GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ShoveetSingh&theme=darkhub&no-bg=true&no-frame=true&column=7&row=1&margin-w=15&margin-h=15&title=Commit,Repositories,Followers,Issues,PullRequest,Contributions&title-color=FFD700&icon-color=FFD700)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Your WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=shoveet&bg_color=000000&title_color=ffffff&text_color=FFD700&icon_color=FFD700)
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/shoveet-singh-69827a225/)
 
-![Your WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=shoveet)
+
