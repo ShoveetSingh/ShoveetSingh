@@ -2,7 +2,6 @@
 - 
 <div style="display: inline-block; background-color: black; color: #FFD700; padding: 5px 10px; border-radius: 5px;">
   <img src="https://komarev.com/ghpvc/?username=ShoveetSingh" alt="Profile Views" style="margin-right: 10px;">
-  Profile Views
 </div>
 
 
