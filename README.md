@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @ShoveetSingh
 - 
-<div style="display: inline-block; background-color: black; color: #FFD700; padding: 5px 10px; border-radius: 5px;">
-  <img src="https://komarev.com/ghpvc/?username=ShoveetSingh" alt="Profile Views" style="margin-right: 10px;">
+<div style="position: relative; display: inline-block; color:#FFD700; background-color: black; ">
+  <img src="https://komarev.com/ghpvc/?username=ShoveetSingh" alt="Profile Views" style="position: absolute; top: 0; left: 0; z-index: -1;">
 </div>
+
 
 
 - 👀 I’m interested in software technology...
