@@ -1,6 +1,10 @@
- b- 👋 Hi, I’m @ShoveetSingh
+- 👋 Hi, I’m @ShoveetSingh
+- 
+<div style="display: inline-block; background-color: black; color: #FFD700; padding: 5px 10px; border-radius: 5px;">
+  <img src="https://komarev.com/ghpvc/?username=ShoveetSingh" alt="Profile Views" style="margin-right: 10px;">
+  Profile Views
+</div>
 
-    ![](https://komarev.com/ghpvc/?username=ShoveetSingh)
 
 - 👀 I’m interested in software technology...
 - - 💞️ I’m looking to collaborate on MERN technology stack...
