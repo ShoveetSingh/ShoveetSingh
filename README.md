@@ -3,8 +3,6 @@
     ![](https://komarev.com/ghpvc/?username=ShoveetSingh)
 
 - 👀 I’m interested in software technology...
-- 🌱 I’m currently learning Hacking
-- Anybody interested in helping me to learn hacking is welcome.
 - - 💞️ I’m looking to collaborate on MERN technology stack...
 - 📫 How to reach me ... via gmail address linkedln profile and address 😁
 
