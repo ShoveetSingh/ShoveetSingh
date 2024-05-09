@@ -13,6 +13,8 @@ ShoveetSingh/ShoveetSingh is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ShoveetSingh&show_icons=true&count_private=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ShoveetSingh&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
