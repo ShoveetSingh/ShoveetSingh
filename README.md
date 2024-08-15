@@ -14,6 +14,10 @@ You can click the Preview link to take a look at your changes.
   <img src= "https://media.giphy.com/media/1n92hYPiFQ0efcCtrF/giphy.gif"   width="600" height="300"/>
 </div>
 
+<div>
+  <h1 style="font-size:12; font-style:bold;">My Skills: </h1>
+</div>
+
   [![My Skills](https://skillicons.dev/icons?i=react,tailwind,solidity,nodejs,git,php,mysql,mongodb,supabase,express,ts)](https://skillicons.dev)
 
 
