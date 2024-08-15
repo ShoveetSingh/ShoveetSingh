@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <div>
-  <h1 style="font-size:12; font-style:bold;">My Skills: </h1>
+  <h1 style="font-size:12; font-style:italic;">My Skills: </h1>
 </div>
 
   [![My Skills](https://skillicons.dev/icons?i=react,tailwind,solidity,nodejs,git,php,mysql,mongodb,supabase,express,ts)](https://skillicons.dev)
