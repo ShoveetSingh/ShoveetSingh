@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
   <img src= "https://media.giphy.com/media/1n92hYPiFQ0efcCtrF/giphy.gif"   width="600" height="300"/>
 </div>
 
-<div padding-top="40px" padding-bottom="40px">
+<div style="paddingTop: 40px; paddingBottom: 40px;">
   [![My Skills](https://skillicons.dev/icons?i=react,tailwind,solidity,nodejs,git,php,mysql,mongodb,supabase,express,ts)](https://skillicons.dev)
 </div>
 
