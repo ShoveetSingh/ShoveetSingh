@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-  [![My Skills](https://skillicons.dev/icons?i=react,tailwind,solidity,nodejs,git,php,mysql,mongodb,supabase,express,ts)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=py,machine_learning,react,tailwind,solidity,nodejs,git,php,mysql,mongodb,supabase,express,ts)](https://skillicons.dev)
 
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ShoveetSingh&show_icons=true&count_private=true&bg_color=000000&title_color=ffffff&text_color=ffff00&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
