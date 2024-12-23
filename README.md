@@ -35,5 +35,5 @@ You can click the Preview link to take a look at your changes.
 ![Your WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=shoveet&bg_color=000000&title_color=ffffff&text_color=FFD700&icon_color=FFD700)
 
 
-![GitHub Snake](dist/github-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/ShoveetSingh/ShoveetSingh/output/github-contribution-grid-snake-dark.svg)
 
