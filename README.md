@@ -33,3 +33,26 @@ You can click the Preview link to take a look at your changes.
 [![Your GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ShoveetSingh&theme=darkhub&no-bg=true&no-frame=true&column=7&row=1&margin-w=15&margin-h=15&title=Commit,Repositories,Followers,Issues,PullRequest,Contributions&title-color=FFD700&icon-color=FFD700)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Your WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=shoveet&bg_color=000000&title_color=ffffff&text_color=FFD700&icon_color=FFD700)
+
+
+- uses: Platane/snk@v3
+  with:
+    # github user name to read the contribution graph from (**required**)
+    # using action context var `github.repository_owner` or specified user
+    github_user_name: ${{ ShoveetSingh }}
+
+    # list of files to generate.
+    # one file per line. Each output can be customized with options as query string.
+    #
+    #  supported options:
+    #  - palette:     A preset of color, one of [github, github-dark, github-light]
+    #  - color_snake: Color of the snake
+    #  - color_dots:  Coma separated list of dots color.
+    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
+    #                 Exactly 5 colors are expected.
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+
