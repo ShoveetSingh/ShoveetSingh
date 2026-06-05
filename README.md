@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ShoveetSingh
 - 👀 I’m interested in AI Engineering...
-- - 💞️ I’m looking forward to collaborate on  machine Learning...
 - 📫 How to reach me ... via gmail address linkedln profile and address 😁
 
 <img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me a Coffee">
