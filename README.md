@@ -33,7 +33,15 @@ You can click the Preview link to take a look at your changes.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
 ![Keras](https://img.shields.io/badge/Keras-111827?style=for-the-badge&logo=keras&logoColor=D00000)
 
-
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-6C63FF?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F61?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-007ACC?style=for-the-badge)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-00B894?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-16A085?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-8E44AD?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-F39C12?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ShoveetSingh&show_icons=true&count_private=true&bg_color=000000&title_color=ffffff&text_color=ffff00&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
