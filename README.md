@@ -2,11 +2,7 @@
 - 👀 I’m interested in AI Engineering...
 - 📫 How to reach me ... via gmail address linkedln profile and address 😁
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/🚀%20Open%20to-AI%20%7C%20ML%20%7C%20GenAI%20Roles-success?style=for-the-badge">
-
-</div>
+![Open to AI Roles](https://img.shields.io/badge/🚀%20Open%20to-AI%20%7C%20ML%20%7C%20GenAI%20Roles-181717?style=for-the-badge&logoColor=white)
 
 <!---
 ShoveetSingh/ShoveetSingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
