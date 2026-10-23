@@ -9,10 +9,6 @@ ShoveetSingh/ShoveetSingh is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-<div align="left">
-  <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXlqaHd1d2Y4MTZndmNzcnFiNG4zZ21nN2I5c3YzdjgwNWE2eXRuYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/udK21RQeWtaGQ/giphy.gif" width="600" height="300"/>
-</div>
-
 <div>
   <h1 style="font-family:Arial, sans-serif; font-size:16; font-weight:bold;">My Skills:</h1>
 </div>
