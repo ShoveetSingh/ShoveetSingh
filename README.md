@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-[![My Skills](https://skillicons.dev/icons?i=py,react,git,mysql,supabase,fastapi,docker,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,react,git,mysql,supabase,sqlite,mssql,fastapi,docker)](https://skillicons.dev)
 
 
 ## 🤖 AI / ML Stack
