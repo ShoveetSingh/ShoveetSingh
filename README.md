@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div align="left">
-  <img src= "https://media.giphy.com/media/1n92hYPiFQ0efcCtrF/giphy.gif"   width="600" height="300"/>
+  <img src= "[https://media.giphy.com/media/1n92hYPiFQ0efcCtrF/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXlqaHd1d2Y4MTZndmNzcnFiNG4zZ21nN2I5c3YzdjgwNWE2eXRuYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/udK21RQeWtaGQ/giphy.gif)"   width="600" height="300"/>
 </div>
 
 <div>
